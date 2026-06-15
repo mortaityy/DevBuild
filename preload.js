@@ -1,4 +1,4 @@
-// Vencord 2bbb433
+// Vencord cd6d497
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
