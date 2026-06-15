@@ -1,4 +1,4 @@
-// Vencord d10098b
+// Vencord 2bbb433
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
