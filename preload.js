@@ -1,4 +1,4 @@
-// Vencord 6771b27
+// Vencord 8bf170d
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
