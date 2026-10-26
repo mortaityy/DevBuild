@@ -1,4 +1,4 @@
-// Vencord 8bf170d
+// Vencord 583bcc5
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
